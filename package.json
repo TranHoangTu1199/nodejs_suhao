@@ -1,0 +1,28 @@
+{
+  "name": "suhaothongke",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TranHoangTu1199/nodejs_suhao.git"
+  },
+  "keywords": [
+    "suhao",
+    "nodejs",
+    "thongke"
+  ],
+  "author": "Cmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TranHoangTu1199/nodejs_suhao/issues"
+  },
+  "homepage": "https://github.com/TranHoangTu1199/nodejs_suhao#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
